@@ -1,7 +1,7 @@
 
 # Prompt Wrangler CLI
 
-A simple CLI tool demonstrating data extraction.
+A simple CLI tool demonstrating data extraction, using OpenAI.
 ### Goals
 *Input:* clinical notes
 *Output:* structured data extracted from clinical notes, token usage, and response time
